@@ -1,0 +1,1 @@
+/home/rosinator/.platformio/packages/toolchain-atmelavr/bin/avr-g++  -g  -rdynamic CMakeFiles/microcontrollers.dir/src/Main.cpp.o  -o microcontrollers 
